@@ -1,2 +1,8 @@
-# library-management-system-using-php
- 
+# Library Management System Using PHP
+
+## Login Details
+
+```
+Username: admin
+Password: admin
+```
